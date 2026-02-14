@@ -1,0 +1,6 @@
+<pad> 0
+<s> 1
+</s> 2
+<eos> 3
+[manga-ocr] 4
+ready 5
